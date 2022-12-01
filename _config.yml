@@ -21,8 +21,9 @@ author: Caleb Van Geffen
 
 navbar-links:
   About Me: "aboutme"
-  Services:
-  Contact: 
+  Coaching: "coaching"
+  Tutoring: "tutoring"
+  Dev: "dev"
 
 ################
 # --- Logo --- #
